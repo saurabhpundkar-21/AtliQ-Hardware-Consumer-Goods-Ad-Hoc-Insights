@@ -8,6 +8,7 @@ Tools Used:
 1.MySQL - for querying the data
 2.Tableau - for visualizations
 3.PowerPoint- for presenting insights
+
 Data Used:
 dim_customers, dim_product, fact_gross_price, fact_manufacturing_cost, fact_pre_invoice_deductions, fact_sales_monthly
 
