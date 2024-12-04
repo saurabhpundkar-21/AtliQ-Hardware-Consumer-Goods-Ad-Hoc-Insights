@@ -19,4 +19,4 @@ This file provides a comprehensive overview of the tables found in the 'gdb023' 
 • fact_gross_price: contains gross price information for each product
 • fact_manufacturing_cost: contains the cost incurred in the production of each product
 • fact_pre_invoice_deductions: contains pre-invoice deductions information for each product
-• fact_sales_monthly: contains monthly sales data for each product.
+• fact_sales_monthly: contains monthly sales data for each product. 
